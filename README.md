@@ -46,6 +46,7 @@
 - File table.sql chứa các câu lệnh để tạo bảng vùng stagging, và các bảng dim, fact.
 - File output.csv chứa dữ liệu thu thập.
 - File requirements.txt chứa các thư viện cần cài đặt.
+- File spiderum_youtube.pbix chạy trên PowerBI desktop để trực quan hóa dữ liệu.
 
 ## Các bước cài đặt
 --> Clone repo:
